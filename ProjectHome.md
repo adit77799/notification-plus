@@ -1,0 +1,1 @@
+Notification Plus delivers recurring notifications via the phone's vibrator or notification ringtone.  This is especially useful for phones which lack a notification LED, such as the Nexus S, and at least two of the Galaxy S variants.
